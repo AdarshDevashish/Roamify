@@ -38,6 +38,15 @@ button{
     font-size: 1.8rem;
     cursor: pointer;
 }
+button:hover{
+    padding: 2rem 6rem;
+    background: #4b688b;
+    border: none;
+    color: white;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+
 
 /*Nav Section*/
 .main-head{
